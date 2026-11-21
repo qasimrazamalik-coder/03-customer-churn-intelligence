@@ -1,0 +1,11 @@
+{
+  "title": "Customer Churn Intelligence",
+  "domain": "churn",
+  "primary_dimension": "segment",
+  "kpis": [
+    "Churn Rate",
+    "At-risk Customers",
+    "Monthly Recurring Revenue",
+    "Retention Rate"
+  ]
+}
